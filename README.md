@@ -1,10 +1,10 @@
 # 你好，我是 Bigheadchit
 
-我正在自学Python，想把它用到能源设备测试和工程数据分析里。这里整理我的学习记录和后续项目入口。
+我是一名正在自学Python的本科生，不是计算机专业。学这个主要是想把自己的能源测试项目做出来。
 
-- [Python学习记录](https://github.com/Bigheadchit/python-learning)：每天的代码练习、运行结果和每周笔记。
-- [全部仓库](https://github.com/Bigheadchit?tab=repositories)：之后学习其他工具和做项目，也会在这里更新。
+一开始从print和变量学起，现在练到了CSV、NumPy和文件保存，刚开始学Pandas。短程序还好，代码多了以后有时会看乱，还在慢慢练。
 
-目前练习过输入与计算、函数、文件读写、异常处理、类与对象、CSV和NumPy，正在开始Pandas。后续再记录MATLAB学习和能源设备自动测试项目。
+- [Python学习记录](https://github.com/Bigheadchit/python-learning)：平时写的代码、跑出来的结果和每周笔记。
+- [我的全部仓库](https://github.com/Bigheadchit?tab=repositories)
 
-我会把代码和实际结果一起留下，方便回看每一步是怎么做出来的。
+后面学MATLAB和做正式项目，我也打算分别开仓库存下来，方便自己回看。
